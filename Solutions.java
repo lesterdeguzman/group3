@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.*;
 import java.io.*;
 
-public class Compiled {
+public class Solutions {
 ////////////////////////////////////////////////////////////////Angel
 	public static void Apartment() {
 
@@ -732,7 +732,7 @@ public void TableTennis() {
 				}
 			}
 		}, "1", 1 << 26).start();
-			new Compiled().soln();
+			new Solutions().soln();
 		}
 		char ch[][];
 		ArrayList<Integer>[] g;
